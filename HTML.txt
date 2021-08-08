@@ -1,0 +1,33 @@
+<title> (Webpage ko title dene k lye)
+<h1>
+<h2>
+<h3>
+<h4>
+<h5>
+<h6>
+<p>
+<b> (text ko bold krne k lye)
+<i> (text ko italic krne k lye)
+<sup> (superscript - for superscript)
+<sub> (subscript - for subscript)
+<q> (for inverted commas)
+<br/> (line break krne k lye)
+</hr> (line break krne or uspr ek line khnchne k lye)
+<abbr title: "value"> (abbreviation dkhane k lye, hover krne pr title show hga)
+-----------SEMANTIC MARKUPS:--------------
+<strong> (semantic bold krne k lye)
+<em> (emphasis - semantic italic krne lye)
+<cite> (citation - ksi character ko highlight krne k lye)
+<dfn> (definition - kisi b definition k title k lye)
+<address> (kisi bhi address ko enclose krne k liye eg: <a href="mailto:anasuddinpk@gmail.com">)
+---------------------------------------
+<blockquote cite="link"> (kisi or website se kisi text ko copy krne k lye, ye text ko indent krdeta h)
+<s>/<del> (strike, delete - kisi b text ko center se cut krne k lye) & <ins> (insert - uski jgah new underlined text dene k lye)
+<ol> <li>s (ordered list)
+<ul> <li>s (unordered list)
+<dl> <dt>s <dd> (definition list, definition term, definition description)
+<a href=""> (absolute or relative links k lye, load on same tab)
+<a href="" target="_blank"> (absolute or relative links k lye, load on diff tab)
+<a href="mailto:anasuddinpk@gmail.com"> (email software khol kr given email ko compose krdega)
+<a href="#IDNAME"> (yani hum same page pr kisi or portion pr bina scroll kare jaskte, jis tag pr jana h usko IDNAME dena h)4
+<a href="#"> (html page ke top pr jane k liye)
